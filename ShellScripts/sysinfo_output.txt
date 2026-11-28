@@ -1,0 +1,21 @@
+================================
+       SYSTEM INFORMATION
+================================
+Student Name: Rajat Chaudhary
+Roll Number: 2601730333
+Date: Sat Nov 28 15:02:55 UTC 2026
+
+CPU Information:
+Model name:                              11th Gen Intel(R) Core(TM) i3-1125G4 @ 2.00GHz
+
+Memory Information:
+Total Memory: 3.7Gi
+Used Memory: 427Mi
+
+Top 3 CPU Processes:
+    PID COMMAND         %CPU
+   1315 bash            20.0
+    200 snapd            0.0
+    157 snapfuse         0.0
+
+System Information Report Generated Successfully!
