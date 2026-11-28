@@ -1,0 +1,60 @@
+total 100
+drwxr-x--- 14 its_rajat_chaudhary_002 its_rajat_chaudhary_002  4096 Nov 25 16:14 .
+drwxr-xr-x  3 root                    root                     4096 Oct  7 07:55 ..
+-rw-------  1 its_rajat_chaudhary_002 its_rajat_chaudhary_002 19659 Nov 28 14:21 .bash_history
+-rw-r--r--  1 its_rajat_chaudhary_002 its_rajat_chaudhary_002   220 Oct  7 07:55 .bash_logout
+-rw-r--r--  1 its_rajat_chaudhary_002 its_rajat_chaudhary_002  3771 Oct  7 07:55 .bashrc
+drwxr-x---  4 its_rajat_chaudhary_002 its_rajat_chaudhary_002  4096 Oct  7 07:56 .cache
+drwxr-x---  4 its_rajat_chaudhary_002 its_rajat_chaudhary_002  4096 Oct 21 07:44 .config
+-rw-r--r--  1 its_rajat_chaudhary_002 its_rajat_chaudhary_002   109 Nov  2 16:03 .gitconfig
+drwxr-xr-x  2 its_rajat_chaudhary_002 its_rajat_chaudhary_002  4096 Nov  3 14:28 .landscape
+-rw-------  1 its_rajat_chaudhary_002 its_rajat_chaudhary_002    20 Nov 25 16:14 .lesshst
+drwx------  3 its_rajat_chaudhary_002 its_rajat_chaudhary_002  4096 Oct 23 08:26 .local
+-rw-rw-r--  1 its_rajat_chaudhary_002 its_rajat_chaudhary_002     0 Nov 28 14:12 .motd_shown
+-rw-r--r--  1 its_rajat_chaudhary_002 its_rajat_chaudhary_002   807 Oct  7 07:55 .profile
+drwxr-xr-x  7 its_rajat_chaudhary_002 its_rajat_chaudhary_002  4096 Oct 23 14:38 Downloads
+drwxr-xr-x  3 its_rajat_chaudhary_002 its_rajat_chaudhary_002  4096 Nov  2 16:03 api-practical
+drwxr-xr-x  3 its_rajat_chaudhary_002 its_rajat_chaudhary_002  4096 Oct 21 13:16 cs103
+drwxr-xr-x  3 its_rajat_chaudhary_002 its_rajat_chaudhary_002  4096 Oct  7 08:15 csc103_lab
+drwxr-xr-x  2 its_rajat_chaudhary_002 its_rajat_chaudhary_002  4096 Oct 23 14:36 cse103_backups
+drwxr-xr-x  4 its_rajat_chaudhary_002 its_rajat_chaudhary_002  4096 Oct 31 14:45 cse103_lab
+drwxr-xr-x  8 its_rajat_chaudhary_002 its_rajat_chaudhary_002  4096 Nov 28 14:27 developer-portfolio
+drwx------  3 its_rajat_chaudhary_002 its_rajat_chaudhary_002  4096 Nov  2 15:33 snap
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.4  24552 15832 ?        Ss   14:12   0:01 /sbin/init
+root           2  0.0  0.0   3820  2520 hvc0     Sl+  14:12   0:00 /init
+root           3  0.0  0.0   3680  2224 hvc0     S+   14:12   0:00 init-watcher
+root           8  0.0  0.0   3820  2292 hvc0     Sl+  14:12   0:00 plan9 --control-socket 7 --log-level 4 --server-fd 8 --pipe-fd 10 --log-truncate
+root          51  0.0  0.6  58844 23836 ?        S<s  14:12   0:00 /usr/lib/systemd/systemd-journald
+systemd+      83  0.0  0.3  22416 14532 ?        Ss   14:12   0:00 /usr/lib/systemd/systemd-resolved
+root          89  0.0  0.3  35036 12372 ?        Ss   14:12   0:00 /usr/lib/systemd/systemd-udevd
+root         156  0.0  0.0 159348  1932 ?        Ssl  14:12   0:00 snapfuse /var/lib/snapd/snaps/postman_360.snap /snap/postman/360 -o ro,nodev,allow_other,suid
+root         157  0.0  0.3 454144 12024 ?        Ssl  14:12   0:01 snapfuse /var/lib/snapd/snaps/snapd_28254.snap /snap/snapd/28254 -o ro,nodev,allow_other,suid
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.18.58.1-microsoft-standard-WSL2
+/dev/sdb         97M   97M     0 100% /usr/src/linux-headers-6.18.58.1-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         156G   85G   71G  55% /usr/lib/wsl/drivers
+/dev/sdd       1007G  2.0G  954G   1% /
+none            1.9G   40K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  3.4M  1.9G   1% /init
+none            1.9G  812K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   80K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   80K  1.9G   1% /mnt/wslg/doc
+C:\             156G   85G   71G  55% /mnt/c
+D:\             321G  105M  321G   1% /mnt/d
+tmpfs           1.9G     0  1.9G   0% /tmp
+none            1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none            1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+snapfuse         56M   56M     0 100% /snap/core18/3084
+snapfuse        175M  175M     0 100% /snap/postman/360
+snapfuse         45M   45M     0 100% /snap/snapd/28254
+none            1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           379M   12K  379M   1% /run/user/1000
+snapfuse         56M   56M     0 100% /snap/core18/3267
+               total        used        free      shared  buff/cache   available
+Mem:           3.7Gi       428Mi       3.1Gi       4.4Mi       216Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
